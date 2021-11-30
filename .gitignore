@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/components/App/App_copy.js
+/src/components/AppFilter/AppFilter_copy.js
+/src/components/AppInfo/AppInfo_copy.js
+/src/components/EmployeesAddForm/EmployeesAddForm_copy.js
+/src/components/EmployeesList/EmployeesList_copy.js
+/src/components/EmployeesListItem/EmployeesListItem_copy.js
+/src/components/SearchPanel/SearchPanel_copy.js
